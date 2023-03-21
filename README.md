@@ -1,2 +1,6 @@
 # REACT-CONTAGEM-REGRESSIVA
  Contagem Regressiva
+
+## Comandos Ultilizado no Projeto
+
+npm create vite@lastest
