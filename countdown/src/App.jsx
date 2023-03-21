@@ -10,7 +10,8 @@ import './App.css';
 
 function App() {
 
-  const x = useCountdown("Jan 1, 2023 00:00:00");
+  const x = useCountdown("Mar 23, 2023 00:00:00");
+
   
   return (
     <div className="App" style={{ backgroundImage: `url(${NewYear})`}}>
